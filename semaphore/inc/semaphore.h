@@ -1,0 +1,15 @@
+/*
+ * semaphore.h
+ *
+ *  Created on: Sep 11, 2019
+ *      Author: ignacio
+ */
+
+#ifndef PROYECTOSEMAFORO_SEMAPHORE_INC_SEMAPHORE_H_
+#define PROYECTOSEMAFORO_SEMAPHORE_INC_SEMAPHORE_H_
+
+
+
+
+
+#endif /* PROYECTOSEMAFORO_SEMAPHORE_INC_SEMAPHORE_H_ */
